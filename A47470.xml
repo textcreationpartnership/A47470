@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings evidence vindicated, as to the imputation of perjury in a letter to a friend.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47470</idno>
+            <idno type="STC">Wing K594</idno>
+            <idno type="STC">ESTC R18065</idno>
+            <idno type="EEBO-CITATION">13405420</idno>
+            <idno type="OCLC">ocm 13405420</idno>
+            <idno type="VID">99399</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47470)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99399)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 460:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings evidence vindicated, as to the imputation of perjury in a letter to a friend.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Janeway ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:99399:1"/>
+            <pb n="1" facs="tcp:99399:1" rendition="simple:additions"/>
+            <head>THE KINGS Evidence VINDICATED, AS TO THE IMPUTATION OF PERJURY.</head>
+            <head type="sub">In a LETTER to a Friend.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>IT is not ſo much a regard unto your Commands, which is great, as Loyalty unto my King, and
+Zeal for the Proteſtant Religion, that compels me, in ſhort, to give you my thoughts concerning
+the Validity of Mr. <hi>Dangerfield</hi>'s Evidence, ac<g ref="char:EOLhyphen"/>cording to the account I have received of
+it. You mention his Felonies and Perjuries, as reaſon ſufficient to engage the Wiſe and
+Judicious to neglect all that Evidence he hath given in concerning the <hi>Popiſh Plot;</hi> for,
+ſay you, if ſuch a Villain may be credited in matter of Life and Death, what honeſt man can
+be ſecured either of his Eſtate or Life?</p>
+            <p>Sir, there is much <hi>ſeeming</hi> ſtrength of Argument in what you ſuggeſt; and had
+there not been more <hi>real</hi> ſtrength of Reaſon to over-ballance it, I would ſubmit. But
+ſince it may be made with the greateſt clearneſs to appear, That notwithſtanding all this,
+Mr. <hi>Dangerfield</hi>'s Evidence may be as good as that of any Papiſt, whether a continued
+Bigot to that Superſtition, or one who hath abandon'd the abominations of that ſort of people;
+I cannot but preſume to be free in the Communications of my thoughts: which
+<pb n="2" facs="tcp:99399:2"/>
+I the rather do, becauſe His Majeſty's Life and the Proteſtant Re<g ref="char:EOLhyphen"/>ligion are ſo much
+concern'd herein.</p>
+            <p>I ſay, that notwithſtanding the Felonies and Perjuries you ſug<g ref="char:EOLhyphen"/>geſt that Mr. <hi>D.</hi>
+may have been guilty of; I aſſert, that his Evi<g ref="char:EOLhyphen"/>dence is as good as that of any other Papiſt
+whatſoever, that hath ſhewn himſelf a thorough <hi>Papiſt,</hi> that is, a vile Traytor to
+a Pro<g ref="char:EOLhyphen"/>teſtant (which they term Heretical) King.</p>
+            <p n="1">1. That his Felonies cannot make his Evidence leſs evident than that of the
+<hi>Papiſts,</hi> is demonſtratable to ſuch as ſhall but conſider, that if a greater and
+more heinous Crime than that of Felony cannot Invalidate the Evidence of ſuch an one, then
+ſurely, Fe<g ref="char:EOLhyphen"/>lony, the leſſer Crime cannot. But a greater Crime than Felony, namely,
+High-Treaſon againſt His Majeſties Sacred Life (of which Helliſh Diabolical Treaſons,
+moſt <hi>Engliſh Papiſts,</hi> but in ſpecial all the Diſcoverers of the Plot have been
+guilty), cannot ſpoil the Teſtimony of ſuch; for ſhould High-Treaſon, that is a Crime
+that deſerves the backeſt title, Invalidate the Evidence of a Reforming, Repenting-Traytor',
+the worſt of Rogues may eſ<g ref="char:EOLhyphen"/>cape the juſt ſeverity of our Laws, and the beſt of Princes be
+expos'd to the mercileſs Rage of the vileſt of Traytors; And if this great Tranſgreſſion,
+that is inconſiſtent with all the Rules of Chriſtian Religion, cannot after a Pardon ſpoil
+the Evidence, How is it that Felony, the leſs (though an odious) evil ſhould? I hate Felony
+with my very Soul, but I hate a Traytor much more ſo.</p>
+            <p>But the great thing that ſticks, is Perjury. To which I offer, that though I know not whether
+Mr. <hi>D.</hi> hath been Convicted as a Perjurer; yet be it ſo, this cannot Invalidate his
+Evidence, any more than the Evils of a like nature, in the which the Plotting-<hi>Papiſts</hi>
+have fully involv'd themſelves. For let it be but duly con<g ref="char:EOLhyphen"/>ſidered, and you'l find that the
+true Reaſon why Perjury ſhould weaken his Evidence, is becauſe a Perjur'd perſon is
+ſuppos'd to be one who hath ſo far debauch'd his Conſcience, and raz'd out of his Soul the
+Characters of Truth, that 'tis become impoſſible he ſhould be ever a true man for the future.
+To which I anſwer.</p>
+            <p n="1">1. Sincere Repentance is not in this caſe impoſſible; Perjury, for certain, is not
+the Sin againſt the Holy Ghoſt, neither is it embowell'd with Final Unbelief and Impenitence;
+whence if you can but find the Characters of a ſincere Penitent on Mr. <hi>D.</hi> our Church,
+though it had Excommunicated him, would have given him his Abſolution, whereby he would have been
+fit for our Communion; and for which reaſon, all his old Sins, even his Perjury muſt be blotted
+out of our Remembrance. And can all
+<pb n="3" facs="tcp:99399:2"/>
+this be, and his Teſtimony for the King an idle thing? But,</p>
+            <p n="2">2. Suppoſing Mr. <hi>D.</hi> a Perjur'd perſon, yet nothing more cer<g ref="char:EOLhyphen"/>tain than that he
+hath not proſtituted himſelf more to lyes than the <hi>Papiſts,</hi> nor debauch'd his
+Conſcience more than the other Plotters have done. For,</p>
+            <p n="1">1. Do we not know that the Popiſh Religion is but a heap of Lyes? What is it compos'd
+of, if not of Equivocations, Mental Reſervations, Lyes, Falſhoods, Perjuries, <hi>&amp;c?</hi>
+I muſt be plain, and aſſure you, that I ſcruple more the Evidence of a Real Papiſt, that
+I do of a Perjur'd Proteſtant: And my Reaſons are theſe. A Perjur'd Proteſtant doth never
+Swear falſly, but 'tis contrary to his principle, and may be the product of but a preſent
+temptation, of which he may ſoon repent; and becauſe of the gripes of his awakened
+Conſcience, like the <hi>burn't child dread the fire</hi> of ſuch a ſin; but the
+<hi>Papiſts</hi> principles, are to Lye, Equivocate, and Swear falſly, taking the Oath of
+Allegiance and Supremacy, even when they are reſolv'd for Treaſon againſt His Majeſty,
+which they do without any rebukes of Conſcience; or if any are ſo ſqueamiſh, as to boggle
+at it, 'tis but to ſcowr their Kettle, confeſs and receive Abſolution, and all is well; yea
+they may have Diſ<g ref="char:EOLhyphen"/>penſations, and what not.</p>
+            <p n="2">2. It muſt be alſo remembred, that if Perjury will Invalidate Mr. <hi>D</hi>'s.
+Evidence, what Plotting <hi>Papiſts</hi> Evidence, after the greateſt remorſe can be good?
+Are not all that are engag'd in this devilliſh Plot Sworn to the greateſt ſecreſie? yea
+with greater and more awful Solemnities, than the kiſſing the Bible; and if they diſcover,
+are they not all apparently perjur'd, if not according to the formality of our Law, yet as really
+and truly? Which be<g ref="char:EOLhyphen"/>ing ſo, you may ſee how dangerous 'tis to neglect Mr.
+<hi>Danger<g ref="char:EOLhyphen"/>field</hi>'s Evidence, for the ſame thing being pleadable againſt the reſt, we are
+all an undone people; for if the paſt Perjury of honeſt penitents will Invalidate their future
+Teſtimonies, what encou<g ref="char:EOLhyphen"/>ragement is this to the remaining plotters to make any further
+Diſcoveries? of what uſe is His Majeſties Proclamation? and how are the paſt Plotters
+animated to go on, being confident that none without Perjury can diſcover them? whereby there is
+no poſſible guarding againſt the <hi>Papiſts</hi> plottings, nor no bringing them to
+condign puniſhment: All which tends to the ruine of His Majeſty, the loſs of our Religion,
+the deſtruction of our Li<g ref="char:EOLhyphen"/>berties and Lives.</p>
+            <p>But ſince 'tis as ſure as that the Sun ſhines at Noon-day, that there is a
+<hi>Popiſh</hi> Plot, which hath been detected by admirable
+<pb n="4" facs="tcp:99399:3"/>
+Providences; 'tis alſo as certain, that ſuch as have been Perjur'd, have ſpoken true; that
+is, they have been by an over-ruling Power engag'd to repent of their devilliſh Treaſons, their
+vile Perju<g ref="char:EOLhyphen"/>ries, <hi>&amp;c.</hi> and are become honeſt and true men, good Proteſtants and
+Loyal Subjects, expiating their paſt Treaſons by enduring, and a patient bearing great
+Diſcouragements in their ſtedfaſt adhering to the Truth. We have ſeen, that if theſe
+<hi>German</hi> Dogs would have been drawn aſide by ſuch Cruſts as <hi>Popiſh</hi>
+Preferments, Thouſands of pounds, <hi>&amp;c.</hi> or driven from an Owning the Truth by ſuch
+Menaces and Threats as have attended them, as the being <hi>Godfrediz'd</hi> or
+<hi>Arnoldiz'd,</hi> and the like, we might not have one man to give in Evidence againſt the
+Lords in the <hi>Tower,</hi> &amp;c.</p>
+            <p>I had almoſt forgot to deſire you to make a free Intimation of your mind, concerning what
+are the Qualifications you expect ſhould be found in a <hi>Popiſh</hi> Plotter, who deſigns
+nothing leſs than the burning Cities, depopulating Countries, deſtroying Prote<g ref="char:EOLhyphen"/>ſtant Kings;
+What manner of perſons muſt ſuch be? what! muſt they fear an Oath, or a Lye? what! is there
+no Evil in Murder, and Treaſon, and the Torturings of thouſands of Inno<g ref="char:EOLhyphen"/>cents? What! are all
+theſe things little things in compariſon of Perjury? or can you in your Conſcience imagine,
+that ſuch as are men of principles bloody enough to engage in all theſe Cruel<g ref="char:EOLhyphen"/>ties, are yet
+afraid of a Lye, or of a falſe Oath? Sir, I do verily believe there are none fit for theſe
+deteſtable Treaſons, unleſs they can Perjure themſelves over and over; yea, and that there
+are ma<g ref="char:EOLhyphen"/>ny who can exerciſe their Tongues in Curſing and Damning them<g ref="char:EOLhyphen"/>ſelves and others, yea
+perjure themſelves again and again, who yet could not embrue their hands in the Blood of Kings,
+and Thouſands of Innocents. Let not paſt perjury then be ſo formi<g ref="char:EOLhyphen"/>dable a thing to ſtagger
+your Faith concerning a Plot, whoſe Be<g ref="char:EOLhyphen"/>ing hath been diſcover'd with ſo much Evidence and
+Conviction to all that hear on't.</p>
+            <p>I beſeech you therefore, that you'l conſider how you neglect the Evidence of ſuch men, who
+once were perjur'd <hi>Popiſh,</hi> and falſe Traytors, but are now honeſt, good and loyal
+Proteſtants, whoſe Evidences hath been moſt miraculouſly brought to light, and con<g ref="char:EOLhyphen"/>firm'd,
+to the aſtoniſhment of all conſidering and thinking men, both at home and abroad. I need not
+beg your pardon, ſince if you are a Proteſtant, as I know you are, you cannot but approve of
+the Zeal of him, who is,</p>
+            <closer>
+               <signed>Yours,</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> R. Janeway <hi>in</hi> Queens-head-Alley <hi>in</hi>
+Paternoſter-Row, <hi>1680</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
